@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b60161c2ce92274a8eeb3835d39e2bd, type: 3}
+  m_Name: Fantasy_Regular
+  m_EditorClassIdentifier: 
+  _questSuccessGoals:
+  - {fileID: 11400000, guid: ee8c00d4280bb2d4fbeb5365fe620fd9, type: 2}
+  - {fileID: 11400000, guid: 5d723e78f7445df47824701ebd690891, type: 2}
+  _questFailGoals:
+  - {fileID: 11400000, guid: 6ccafd01b19411b4a9ab5fc634995247, type: 2}
+  - {fileID: 11400000, guid: 5094c6f7380589f43b752b12586b716f, type: 2}
+  _instanceSuccessQuestGoals: []
+  _instanceFailQuestGoals: []
+  type: 1
+  themes: 010000000000000002000000
